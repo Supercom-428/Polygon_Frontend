@@ -1,1 +1,1 @@
-# Polygon_Frontend
+# PolyGaj Frontend
